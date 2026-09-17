@@ -77,3 +77,10 @@ The LinearSVC model also performed reasonably well, but the nonlinear RBF model 
 This project demonstrates how Support Vector Machine models can be applied to airline flight data for multiple classification tasks. By comparing linear and nonlinear SVM kernels, the analysis showed that the RBF kernel performed best with an accuracy of approximately 82.67%. The project also highlights how decision boundary visualizations can help explain model behavior and compare classification approaches.
 
 Overall, this project is a strong machine learning portfolio example because it uses one real-world-style dataset for two related classification objectives: flight price classification and flight destination prediction.
+
+
+## 📊 Live Dashboard
+
+View the interactive dashboard: https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#flight
+
+The same flight-listings table backs both classification tasks in this repo, so it is presented once as a fare-analysis dashboard with fares by airline, stops, route, and duration.
