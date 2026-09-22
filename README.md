@@ -81,6 +81,6 @@ Overall, this project is a strong machine learning portfolio example because it 
 
 ## 📊 Live Dashboard
 
-View the interactive dashboard: https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#flight
+[![View Live Dashboard](https://img.shields.io/badge/📊_View_Live_Dashboard-2a78d6?style=for-the-badge)](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#flight)
 
 The same flight-listings table backs both classification tasks in this repo, so it is presented once as a fare-analysis dashboard with fares by airline, stops, route, and duration.
